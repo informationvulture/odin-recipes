@@ -1,2 +1,7 @@
-# chrysippus-js
-Learning HTML/CSS/JavaScript, the logical way.
+##### Odin Recipes
+
+## Skills learned:
+- Lists
+- Links
+- Paragraphs
+- Images
